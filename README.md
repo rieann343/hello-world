@@ -1,2 +1,6 @@
 # hello-world
-sample lang
+----------------
+
+Hi
+
+Hello World... XD
